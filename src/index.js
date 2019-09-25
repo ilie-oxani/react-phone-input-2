@@ -746,9 +746,8 @@ class ReactPhoneInput extends React.Component {
                 })}
                 role='img'
                 aria-label='Magnifying glass'
-              >
-                &#128270;
-              </span>}
+              />
+            }
             <input
               className={classNames({
                 'search-box': true,
